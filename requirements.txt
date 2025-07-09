@@ -7,3 +7,5 @@ pandas==1.5.2
 matplotlib==3.6.2
 matplotlib-inline==0.1.6
 scikit-learn==1.1.3
+altair==4.2.2
+
